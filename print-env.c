@@ -11,7 +11,7 @@ int main(int argc,char *argv[])
 	 }
    else
    {
-     printf("MYSHELL address is %p content %s\n",p,p);
+     printf("MYSHELL address is %p command %s\n",p,p);
    }
 
 	 return 0;
